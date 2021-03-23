@@ -1,5 +1,9 @@
 ## Publish Simple Static Site on Netlify using Netlify cli
 
+## Site Deployed --> 🔗 https://game-of-thrones-blog.netlify.app/
+
+<img src='./public/images/homepage.png' />
+
 ## Steps
 
 - Signup on <a href='https://www.netlify.com/'>Netlify</a>
